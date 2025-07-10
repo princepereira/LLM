@@ -18,6 +18,17 @@ pip show openai
 
 ```
 
+## Token Generation ##
+```
+https://platform.openai.com
+```
+
+## Token Usage ##
+
+```
+https://platform.openai.com/usage
+```
+
 ## List the supported models ##
 
 ```
